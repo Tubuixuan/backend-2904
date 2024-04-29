@@ -1,0 +1,19 @@
+{
+  "name": "nhulac",
+  "version": "1.0.0",
+  "description": "My Son Cua Ba",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Bui Xuan Tu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
